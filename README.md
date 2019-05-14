@@ -1,5 +1,4 @@
-# About
-My core development are back-end, front-end, and test automation using Java, J2EE, Spring Boot, JPA, Hibernate, JavaScript, Node.js, PHP, Selenium, and SOAPUI.
+# Java Core Review
 
 ## Difference between ArrayList and HashSet in Java
 ### Inheritance
