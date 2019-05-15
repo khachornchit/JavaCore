@@ -1,10 +1,5 @@
 package Core08.OOP;
 
-/**
- * 
- * @author pluto
- *
- */
 public class Car extends BaseCar {
 
 	protected int Year;

@@ -1,4 +1,4 @@
-package Core06.Collections.List;
+package Core06.Collection.List;
 
 import java.util.ArrayList;
 import java.util.List;
