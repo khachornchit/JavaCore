@@ -1,6 +1,6 @@
 package Core01.Basic;
 
-public class Basic02_StringConcatenatenation {
+public class Basic02_StringConcatenation {
 
 	public static void main(String[] args) {
 		int a = 100;
